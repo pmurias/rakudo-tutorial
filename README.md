@@ -4,7 +4,7 @@ Install node 10.16.0 or 12.3.1 from https://nodejs.org
 
 # Getting started with node.js rakudo.js
 
-bash```
+```bash
 mkdir tutorial-project # Create a fresh project directory
 cd tutorial-project
 npm init
